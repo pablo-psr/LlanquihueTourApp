@@ -1,0 +1,6 @@
+
+Isla Huar;Calbuco;Cultural;1200
+Volcán Osorno;Osorno;Aventura;45000
+Cataratas del Petrohué;Osorno;Paisaje;60000
+Ruta Gastronómica Frutillar;Frutillar;Gastronómico;25000
+Sabores Tradicionales de Llanquihue;Llanquihue;Gastronómico;30000
