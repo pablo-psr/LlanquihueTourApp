@@ -65,7 +65,7 @@ El proyecto sigue una arquitectura limpia organizada por paquetes, separando las
 Sigue estos pasos para poner en marcha el proyecto en tu entorno local:
 
 1. **Clona el repositorio desde GitHub:**
-`git clone https://github.com/pablo-psr/Sumativa-1-Desarrollo-Orientado-a-Objetos.git`
+`[git clone (https://github.com/pablo-psr/LlanquihueTourApp.git)`
 2. **Verificación de SDK:** Asegúrate de tener configurado un SDK de Java compatible en tu IDE (JDK 17 o superior recomendado para los proyectos actuales de Duoc UC).
 3. **Ejecución:** Abre el proyecto en tu IDE preferido (NetBeans, IntelliJ o Eclipse) y ejecuta el archivo `Main.java` ubicado dentro de la ruta:
 `src/main/java/com/duoc/llanquihueTour/ui/Main.java`
